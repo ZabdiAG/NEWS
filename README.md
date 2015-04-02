@@ -1,0 +1,2 @@
+# NEWS
+Portal about news
